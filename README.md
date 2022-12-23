@@ -17,3 +17,33 @@ class ThisIsClass
 };
 ```
 
+
+### Member Variable definition
+
+```c++
+class ThisIsClass
+{
+private:
+  // 명사형
+  int mSizeOfArray;
+  int mLengthOfString;
+};
+```
+
+
+
+### Member Function definition
+
+```c++
+
+class ThisIsClass
+{
+
+private:
+  // 동사형
+  void mPrintName;
+  int mGetLengthOfString;
+  int mGetSizeOfArray;
+};
+```
+
