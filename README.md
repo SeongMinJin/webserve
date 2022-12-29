@@ -44,9 +44,9 @@ class ThisIsClass
 
 private:
   // 동사형
-  void mPrintName;
-  int mGetLengthOfString;
-  int mGetSizeOfArray;
+  void mPrintName( ... );
+  int mGetLengthOfString( ... );
+  int mGetSizeOfArray( ... );
 };
 ```
 
